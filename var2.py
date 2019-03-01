@@ -77,3 +77,5 @@ def medium(index, perc):
 byyear("02", 2000)
 extreme("02", 40)
 #clearfiles()
+
+adding nonsense >:D
